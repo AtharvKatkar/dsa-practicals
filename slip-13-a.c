@@ -71,7 +71,7 @@ void main()
 {
     Node *t1 = createNode(10);
     insert(t1, 20);
-    insert(t1, 5);
+    insert(t1, 15);
 
     Node *t2 = createNode(10);
     insert(t2, 20);
